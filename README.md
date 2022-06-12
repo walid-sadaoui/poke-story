@@ -1,2 +1,1 @@
-# poke-story
-App describing the different generations of Pokemons
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
